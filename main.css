@@ -50,11 +50,11 @@
 	
 	#heading {
 		text-decoration:none;
-		color:gray;
+		color:blue;
 		font:helvetica;
 	}
 	
-	#welcome {
+	li.welcome {
 		width:70px;
 		   height:90px;
 		   float:left;
