@@ -54,18 +54,6 @@
 		font:helvetica;
 	}
 	
-	.featured {
-		width:70px;
-		   height:90px;
-		   float:left;
-		   text-align:center;
-		   padding-top:10px;
-		   color:white;
-		   font-family:Arial;
-		   font-size:48px;
-		   margin-top:10px;
-		   text-align:center;
-	}
 	
 /** Start of Sidebar style **/	
 		#page .header .footer .body #sidebar{
