@@ -48,7 +48,9 @@
 		height:35px;
 	}
 	
-
+	#heading {
+		text-decoration:none;
+	}
 	
 /** Start of Sidebar style **/	
 		#page .header .footer .body #sidebar{
